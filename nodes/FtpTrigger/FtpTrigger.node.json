@@ -1,0 +1,22 @@
+{
+	"node": "n8n-nodes-ftp-trigger.ftpTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Core Nodes", "Data & Storage", "Development", "Utility"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.n8n.io/credentials/ftp"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.ftp/"
+			}
+		]
+	},
+	"alias": ["SFTP"],
+	"subcategories": {
+		"Core Nodes": ["Files", "Other Trigger Nodes"]
+	}
+}
